@@ -28,3 +28,8 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+#wengang.chen 2017.06.16
+#记录：
+#代码解读：http://www.jianshu.com/p/2b661d01eaf8
